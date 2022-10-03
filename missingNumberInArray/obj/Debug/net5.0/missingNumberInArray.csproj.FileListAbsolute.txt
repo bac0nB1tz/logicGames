@@ -1,0 +1,16 @@
+C:\source\repos\coder\missingNumberInArray\bin\Debug\net5.0\missingNumberInArray.exe
+C:\source\repos\coder\missingNumberInArray\bin\Debug\net5.0\missingNumberInArray.deps.json
+C:\source\repos\coder\missingNumberInArray\bin\Debug\net5.0\missingNumberInArray.runtimeconfig.json
+C:\source\repos\coder\missingNumberInArray\bin\Debug\net5.0\missingNumberInArray.runtimeconfig.dev.json
+C:\source\repos\coder\missingNumberInArray\bin\Debug\net5.0\missingNumberInArray.dll
+C:\source\repos\coder\missingNumberInArray\bin\Debug\net5.0\missingNumberInArray.pdb
+C:\source\repos\coder\missingNumberInArray\obj\Debug\net5.0\missingNumberInArray.csproj.AssemblyReference.cache
+C:\source\repos\coder\missingNumberInArray\obj\Debug\net5.0\missingNumberInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\coder\missingNumberInArray\obj\Debug\net5.0\missingNumberInArray.AssemblyInfoInputs.cache
+C:\source\repos\coder\missingNumberInArray\obj\Debug\net5.0\missingNumberInArray.AssemblyInfo.cs
+C:\source\repos\coder\missingNumberInArray\obj\Debug\net5.0\missingNumberInArray.csproj.CoreCompileInputs.cache
+C:\source\repos\coder\missingNumberInArray\obj\Debug\net5.0\missingNumberInArray.dll
+C:\source\repos\coder\missingNumberInArray\obj\Debug\net5.0\ref\missingNumberInArray.dll
+C:\source\repos\coder\missingNumberInArray\obj\Debug\net5.0\missingNumberInArray.pdb
+C:\source\repos\coder\missingNumberInArray\obj\Debug\net5.0\missingNumberInArray.genruntimeconfig.cache
+C:\source\repos\coder\missingNumberInArray\obj\Debug\net5.0\refint\missingNumberInArray.dll

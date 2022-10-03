@@ -1,0 +1,16 @@
+C:\source\repos\coder\twoIntsInArrayEqualGivenSum\bin\Debug\net5.0\twoIntsInArrayEqualGivenSum.exe
+C:\source\repos\coder\twoIntsInArrayEqualGivenSum\bin\Debug\net5.0\twoIntsInArrayEqualGivenSum.deps.json
+C:\source\repos\coder\twoIntsInArrayEqualGivenSum\bin\Debug\net5.0\twoIntsInArrayEqualGivenSum.runtimeconfig.json
+C:\source\repos\coder\twoIntsInArrayEqualGivenSum\bin\Debug\net5.0\twoIntsInArrayEqualGivenSum.runtimeconfig.dev.json
+C:\source\repos\coder\twoIntsInArrayEqualGivenSum\bin\Debug\net5.0\twoIntsInArrayEqualGivenSum.dll
+C:\source\repos\coder\twoIntsInArrayEqualGivenSum\bin\Debug\net5.0\twoIntsInArrayEqualGivenSum.pdb
+C:\source\repos\coder\twoIntsInArrayEqualGivenSum\obj\Debug\net5.0\twoIntsInArrayEqualGivenSum.csproj.AssemblyReference.cache
+C:\source\repos\coder\twoIntsInArrayEqualGivenSum\obj\Debug\net5.0\twoIntsInArrayEqualGivenSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\coder\twoIntsInArrayEqualGivenSum\obj\Debug\net5.0\twoIntsInArrayEqualGivenSum.AssemblyInfoInputs.cache
+C:\source\repos\coder\twoIntsInArrayEqualGivenSum\obj\Debug\net5.0\twoIntsInArrayEqualGivenSum.AssemblyInfo.cs
+C:\source\repos\coder\twoIntsInArrayEqualGivenSum\obj\Debug\net5.0\twoIntsInArrayEqualGivenSum.csproj.CoreCompileInputs.cache
+C:\source\repos\coder\twoIntsInArrayEqualGivenSum\obj\Debug\net5.0\twoIntsInArrayEqualGivenSum.dll
+C:\source\repos\coder\twoIntsInArrayEqualGivenSum\obj\Debug\net5.0\refint\twoIntsInArrayEqualGivenSum.dll
+C:\source\repos\coder\twoIntsInArrayEqualGivenSum\obj\Debug\net5.0\twoIntsInArrayEqualGivenSum.pdb
+C:\source\repos\coder\twoIntsInArrayEqualGivenSum\obj\Debug\net5.0\twoIntsInArrayEqualGivenSum.genruntimeconfig.cache
+C:\source\repos\coder\twoIntsInArrayEqualGivenSum\obj\Debug\net5.0\ref\twoIntsInArrayEqualGivenSum.dll

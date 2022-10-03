@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5sCtOeg5pEbkGNAo/YlV06dAguGZAgSw/rKlNCjKoUuf788T8pWJOtswioFbFqDnijfsx7yA2hHJb1es0EV5dw==",
+  "success": true,
+  "projectFilePath": "C:\\source\\repos\\coder\\missingNumberInArray\\missingNumberInArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicup\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
