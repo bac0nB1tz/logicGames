@@ -53,6 +53,8 @@
 
         static void Main(string[] args)
         {
+            int[] array = {7,14,21}
+            LinkedList ll = new LinkedList()
             LinkedListNode node3 = new LinkedListNode(3, null, null);
             LinkedListNode node2 = new LinkedListNode(2, node3, null);
             LinkedListNode node1 = new LinkedListNode(1, node2, node3);

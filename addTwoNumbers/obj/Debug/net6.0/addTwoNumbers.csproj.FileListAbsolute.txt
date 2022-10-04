@@ -1,0 +1,15 @@
+C:\source\repos\logicGames\addTwoNumbers\obj\Debug\net6.0\addTwoNumbers.csproj.AssemblyReference.cache
+C:\source\repos\logicGames\addTwoNumbers\obj\Debug\net6.0\addTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\logicGames\addTwoNumbers\obj\Debug\net6.0\addTwoNumbers.AssemblyInfoInputs.cache
+C:\source\repos\logicGames\addTwoNumbers\obj\Debug\net6.0\addTwoNumbers.AssemblyInfo.cs
+C:\source\repos\logicGames\addTwoNumbers\obj\Debug\net6.0\addTwoNumbers.csproj.CoreCompileInputs.cache
+C:\source\repos\logicGames\addTwoNumbers\bin\Debug\net6.0\addTwoNumbers.exe
+C:\source\repos\logicGames\addTwoNumbers\bin\Debug\net6.0\addTwoNumbers.deps.json
+C:\source\repos\logicGames\addTwoNumbers\bin\Debug\net6.0\addTwoNumbers.runtimeconfig.json
+C:\source\repos\logicGames\addTwoNumbers\bin\Debug\net6.0\addTwoNumbers.dll
+C:\source\repos\logicGames\addTwoNumbers\bin\Debug\net6.0\addTwoNumbers.pdb
+C:\source\repos\logicGames\addTwoNumbers\obj\Debug\net6.0\addTwoNumbers.dll
+C:\source\repos\logicGames\addTwoNumbers\obj\Debug\net6.0\refint\addTwoNumbers.dll
+C:\source\repos\logicGames\addTwoNumbers\obj\Debug\net6.0\addTwoNumbers.pdb
+C:\source\repos\logicGames\addTwoNumbers\obj\Debug\net6.0\addTwoNumbers.genruntimeconfig.cache
+C:\source\repos\logicGames\addTwoNumbers\obj\Debug\net6.0\ref\addTwoNumbers.dll
