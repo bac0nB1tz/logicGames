@@ -1,5 +1,0 @@
-C:\source\repos\logicGames\copyLinkedListWithArbitraryPointer\obj\Debug\net6.0\copyLinkedListWithArbitraryPointer.csproj.AssemblyReference.cache
-C:\source\repos\logicGames\copyLinkedListWithArbitraryPointer\obj\Debug\net6.0\copyLinkedListWithArbitraryPointer.GeneratedMSBuildEditorConfig.editorconfig
-C:\source\repos\logicGames\copyLinkedListWithArbitraryPointer\obj\Debug\net6.0\copyLinkedListWithArbitraryPointer.AssemblyInfoInputs.cache
-C:\source\repos\logicGames\copyLinkedListWithArbitraryPointer\obj\Debug\net6.0\copyLinkedListWithArbitraryPointer.AssemblyInfo.cs
-C:\source\repos\logicGames\copyLinkedListWithArbitraryPointer\obj\Debug\net6.0\copyLinkedListWithArbitraryPointer.csproj.CoreCompileInputs.cache
