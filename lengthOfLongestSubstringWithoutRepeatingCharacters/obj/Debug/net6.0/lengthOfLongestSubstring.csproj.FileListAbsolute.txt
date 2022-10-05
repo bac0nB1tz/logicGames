@@ -1,0 +1,15 @@
+C:\source\repos\logicGames\lengthOfLongestSubstringWithoutRepeatingCharacters\bin\Debug\net6.0\lengthOfLongestSubstring.exe
+C:\source\repos\logicGames\lengthOfLongestSubstringWithoutRepeatingCharacters\bin\Debug\net6.0\lengthOfLongestSubstring.deps.json
+C:\source\repos\logicGames\lengthOfLongestSubstringWithoutRepeatingCharacters\bin\Debug\net6.0\lengthOfLongestSubstring.runtimeconfig.json
+C:\source\repos\logicGames\lengthOfLongestSubstringWithoutRepeatingCharacters\bin\Debug\net6.0\lengthOfLongestSubstring.dll
+C:\source\repos\logicGames\lengthOfLongestSubstringWithoutRepeatingCharacters\bin\Debug\net6.0\lengthOfLongestSubstring.pdb
+C:\source\repos\logicGames\lengthOfLongestSubstringWithoutRepeatingCharacters\obj\Debug\net6.0\lengthOfLongestSubstring.csproj.AssemblyReference.cache
+C:\source\repos\logicGames\lengthOfLongestSubstringWithoutRepeatingCharacters\obj\Debug\net6.0\lengthOfLongestSubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\logicGames\lengthOfLongestSubstringWithoutRepeatingCharacters\obj\Debug\net6.0\lengthOfLongestSubstring.AssemblyInfoInputs.cache
+C:\source\repos\logicGames\lengthOfLongestSubstringWithoutRepeatingCharacters\obj\Debug\net6.0\lengthOfLongestSubstring.AssemblyInfo.cs
+C:\source\repos\logicGames\lengthOfLongestSubstringWithoutRepeatingCharacters\obj\Debug\net6.0\lengthOfLongestSubstring.csproj.CoreCompileInputs.cache
+C:\source\repos\logicGames\lengthOfLongestSubstringWithoutRepeatingCharacters\obj\Debug\net6.0\lengthOfLongestSubstring.dll
+C:\source\repos\logicGames\lengthOfLongestSubstringWithoutRepeatingCharacters\obj\Debug\net6.0\refint\lengthOfLongestSubstring.dll
+C:\source\repos\logicGames\lengthOfLongestSubstringWithoutRepeatingCharacters\obj\Debug\net6.0\lengthOfLongestSubstring.pdb
+C:\source\repos\logicGames\lengthOfLongestSubstringWithoutRepeatingCharacters\obj\Debug\net6.0\lengthOfLongestSubstring.genruntimeconfig.cache
+C:\source\repos\logicGames\lengthOfLongestSubstringWithoutRepeatingCharacters\obj\Debug\net6.0\ref\lengthOfLongestSubstring.dll
