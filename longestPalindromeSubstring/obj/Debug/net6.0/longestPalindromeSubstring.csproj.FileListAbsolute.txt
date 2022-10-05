@@ -1,0 +1,15 @@
+C:\source\repos\logicGames\longestPalindromeSubstring\obj\Debug\net6.0\longestPalindromeSubstring.csproj.AssemblyReference.cache
+C:\source\repos\logicGames\longestPalindromeSubstring\obj\Debug\net6.0\longestPalindromeSubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\logicGames\longestPalindromeSubstring\obj\Debug\net6.0\longestPalindromeSubstring.AssemblyInfoInputs.cache
+C:\source\repos\logicGames\longestPalindromeSubstring\obj\Debug\net6.0\longestPalindromeSubstring.AssemblyInfo.cs
+C:\source\repos\logicGames\longestPalindromeSubstring\obj\Debug\net6.0\longestPalindromeSubstring.csproj.CoreCompileInputs.cache
+C:\source\repos\logicGames\longestPalindromeSubstring\bin\Debug\net6.0\longestPalindromeSubstring.exe
+C:\source\repos\logicGames\longestPalindromeSubstring\bin\Debug\net6.0\longestPalindromeSubstring.deps.json
+C:\source\repos\logicGames\longestPalindromeSubstring\bin\Debug\net6.0\longestPalindromeSubstring.runtimeconfig.json
+C:\source\repos\logicGames\longestPalindromeSubstring\bin\Debug\net6.0\longestPalindromeSubstring.dll
+C:\source\repos\logicGames\longestPalindromeSubstring\bin\Debug\net6.0\longestPalindromeSubstring.pdb
+C:\source\repos\logicGames\longestPalindromeSubstring\obj\Debug\net6.0\longestPalindromeSubstring.dll
+C:\source\repos\logicGames\longestPalindromeSubstring\obj\Debug\net6.0\refint\longestPalindromeSubstring.dll
+C:\source\repos\logicGames\longestPalindromeSubstring\obj\Debug\net6.0\longestPalindromeSubstring.pdb
+C:\source\repos\logicGames\longestPalindromeSubstring\obj\Debug\net6.0\longestPalindromeSubstring.genruntimeconfig.cache
+C:\source\repos\logicGames\longestPalindromeSubstring\obj\Debug\net6.0\ref\longestPalindromeSubstring.dll
